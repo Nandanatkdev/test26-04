@@ -1,0 +1,4 @@
+function arrayMultiple(arr){
+    return
+}
+const numbers=[1,2,3,4];
